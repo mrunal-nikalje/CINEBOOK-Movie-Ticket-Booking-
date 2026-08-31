@@ -128,4 +128,4 @@ The application allows users to register and log in, browse available movies, se
               └─────────────────┘
 
 
-              DEVELOPED BY MRUNAL NIKALJE
+              
